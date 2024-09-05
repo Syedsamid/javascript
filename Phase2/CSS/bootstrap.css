@@ -1,0 +1,17 @@
+.m-1 {
+    margin:1px;
+}
+
+.m-10 {
+    margin:1px;
+}
+
+.m-20 {
+    margin:1px;
+}
+
+.container {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}

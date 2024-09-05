@@ -8,13 +8,13 @@ var arr = ['apple','mango']
 console.log(arr[0])
 console.log(arr[1])
 
-var arr1 = [1, 1.1,true,'0','something', null,[6,7]];
+var arr1 = [1, 1.1,true,'0','something', null,[6,7,9]];
 
 console.log(arr1[6])
-console.log(arr1[6][0])
+console.log(arr1[6][2])
 
 
-
+/*
 //push 
 
 var todoList = ['learn javascript','learn html']
@@ -49,4 +49,5 @@ var product = ['p1','p2','p3']
 var featuredProduct = products.slice(0,1)
 console.log(featuredProduct)
 console.log(products)
+
 */

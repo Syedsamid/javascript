@@ -1,0 +1,18 @@
+
+Synchronous: it will follow a sequence/order (blocking)
+1
+2
+3
+
+Asynchronous: it won't follow a sequence/order ( non-blocking)
+1
+2
+3
+
+//---------------------------
+
+Asynchronous:
+callbacks
+Promies
+    \_ then catch
+    \_ then await

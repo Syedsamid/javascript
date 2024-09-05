@@ -1,0 +1,31 @@
+/* universal selector */
+* {
+    margin: 0%;
+}
+
+/* type seletor */
+h3{
+    background-color: orange;
+}
+
+a{
+    color: black;
+    text-decoration:none;
+}
+
+/* class selector */
+.header {
+    color: yellow;
+    background-color: black;
+}
+
+/* ID selector */
+#main_title{
+    color: red;
+    background-color: purple;
+}
+
+/* child selector */
+ul > li {
+    font-weight: bold;
+}

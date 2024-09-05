@@ -15,11 +15,10 @@ var obj2 = {
     //"auth-token"
     //subObj: 
     {
-        content:"something"
+       // content:"something"
     }
-}
 console.log(obj.age)
 console.log(obj2['age'])
 console.log(obj2['auth-token'])
-
+}
 
